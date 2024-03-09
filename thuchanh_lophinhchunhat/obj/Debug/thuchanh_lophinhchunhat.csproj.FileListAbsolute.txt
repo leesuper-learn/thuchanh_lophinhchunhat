@@ -1,0 +1,7 @@
+E:\C#\online\W05\Hamvaphuongthuctrongham2\thuchanh_lophinhchunhat\thuchanh_lophinhchunhat\bin\Debug\thuchanh_lophinhchunhat.exe.config
+E:\C#\online\W05\Hamvaphuongthuctrongham2\thuchanh_lophinhchunhat\thuchanh_lophinhchunhat\bin\Debug\thuchanh_lophinhchunhat.exe
+E:\C#\online\W05\Hamvaphuongthuctrongham2\thuchanh_lophinhchunhat\thuchanh_lophinhchunhat\bin\Debug\thuchanh_lophinhchunhat.pdb
+E:\C#\online\W05\Hamvaphuongthuctrongham2\thuchanh_lophinhchunhat\thuchanh_lophinhchunhat\obj\Debug\thuchanh_lophinhchunhat.csproj.AssemblyReference.cache
+E:\C#\online\W05\Hamvaphuongthuctrongham2\thuchanh_lophinhchunhat\thuchanh_lophinhchunhat\obj\Debug\thuchanh_lophinhchunhat.csproj.CoreCompileInputs.cache
+E:\C#\online\W05\Hamvaphuongthuctrongham2\thuchanh_lophinhchunhat\thuchanh_lophinhchunhat\obj\Debug\thuchanh_lophinhchunhat.exe
+E:\C#\online\W05\Hamvaphuongthuctrongham2\thuchanh_lophinhchunhat\thuchanh_lophinhchunhat\obj\Debug\thuchanh_lophinhchunhat.pdb
